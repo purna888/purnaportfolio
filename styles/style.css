@@ -342,6 +342,8 @@ a:hover {
 
 .portfolio-link:hover {
   background-color: var(--secondary-color);
+    color: #000;
+
 }
 
 /* Skills Section */
